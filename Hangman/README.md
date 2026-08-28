@@ -61,10 +61,7 @@ The project keeps game logic, UI components, rendering, input handling and datab
 
 ## 🖼 Preview
 
->
-> ```markdown
-> ![Gameplay screenshot](screenshots/gameplay.png)
-> ```
+▶️ **[Watch Hangman Game Demo](https://github.com/Subhanjeet/miniProjects/releases/tag/hangman-v1.0)**
 
 ---
 
